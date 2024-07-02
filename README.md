@@ -1,6 +1,6 @@
-Fire and Gun Detection using Machine Learning 🚒🔫
+<h1>Fire and Gun Detection using Machine Learning 🚒🔫</h1>
 
-Overview :
+<h2>Overview : </h2>
 
 The Fire and Gun Detection project aims to enhance public safety by leveraging machine learning techniques to develop a real-time surveillance system capable of detecting fire incidents and firearms. This system utilizes advanced image and video processing algorithms to identify potentially dangerous situations, providing early warnings and enabling rapid response to prevent loss of life and property.
 Features
@@ -10,7 +10,7 @@ Features
     🚨 Early Warning System: Provides immediate alerts for quick response and mitigation.
     📹 Real-time Surveillance: Continuous monitoring through real-time video feeds.
 
-Installation :
+<h2>Installation :</h2>
 
 Clone the repository
 
@@ -33,7 +33,7 @@ Usage :
     3. Configure your video source (e.g., webcam, IP camera) in the configuration file.
     View detections in the output window with real-time alerts.
 
-Contributing :
+<h2>Contributing : </h2>
 
 We welcome contributions to improve this project! To contribute:
 
@@ -53,5 +53,5 @@ Acknowledgements :
     Inspired by the need to enhance public safety and rapid emergency response.
 
 Contact :
-
+    sanskarsingh.college@gmail.com
     For any inquiries or issues, please contact Sanskar Singh.
